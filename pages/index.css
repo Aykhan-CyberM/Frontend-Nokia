@@ -1,0 +1,407 @@
+body{
+    padding: 0%;
+    margin: 0;
+    font-family: NokiaPureHeadline,Arial,Helvetica,sans-serif;
+}
+
+.navbar{
+    display: flex;
+    font-size: 15px;
+    margin-left: 910px;
+    text-indent: 25px;
+    
+
+}
+.navbar > *{
+    padding: 10px;
+}
+.navbar{
+    
+    background-color: rgba(243,243,243,255);
+}
+
+header{
+    background-color:rgba(243,243,243,255);
+}
+
+.navbar-below img{
+    display: block;
+    margin: 10px;
+    padding: 10px;
+    margin-right: auto;
+    width: 8%;
+}
+
+.navbar-below{
+    align-items: center;
+    display: flex;
+    font-size: 14px;
+    text-indent: 15px;
+    
+
+}
+.navbar-below > *{
+
+    margin: 10px;
+    padding: 20px;
+    text-indent: -60px;
+}
+.navbar-below > div{
+    
+    line-height: -20px;
+    text-decoration: none;
+    line-height: 1.33;
+    margin-left: auto;
+    margin-right: auto;
+    color: #0065ed;
+    
+}
+
+.svg-nokia{
+    color: #0065ed;
+    height: 25px;
+
+}
+.svg-nokia2{
+
+    height: 25px;
+}
+.container{
+    display: inline-block; 
+}
+.inside-photo{
+    color: whitesmoke;
+    margin: 10px;
+    position: absolute;
+    top: 240px;
+  left: 16px
+}
+.inside-photo > div{
+    font-size: 50px;
+    font-weight: 600;
+}
+.inside-photo > p{
+    font-size: 20px;
+    font-weight: 600;
+}
+.inside-button{
+    display: inline-block;
+    padding: 10px 18px;
+    border-radius: 4px;
+    border: solid 1px #005AFF;
+    background-color: #005AFF;
+    font-family: NokiaPureHeadline,Arial,Helvetica,sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 135%;
+    letter-spacing: 0.54px;
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+}
+.svg-photo{
+    color: #0065ed;
+    height: 25px;
+
+}
+.svg-photo{
+    color: #fff;
+    width: 48px;
+    height: 48px;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    background-color: rgba(255,255,255,0.3);
+    background-repeat: no-repeat;
+    background-position: center center;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+}
+
+.simple-text{
+    margin: 20px;
+
+}
+
+.h48{
+    font-size: 28px;
+    letter-spacing: 0.36px;
+    float: left;
+    font-weight: lighter;
+    padding: 30px;
+    margin-top: 100px;
+}
+
+
+.img-second{  
+    position: relative;
+    height: 100%;
+    vertical-align: top;
+    padding: 20px;
+    left: 272px;
+    bottom: 44px;
+    width: 50%;
+}
+
+.simple-text{
+    display: flex;
+    
+}
+.p48{
+    font-size: 20px;
+    position: absolute;
+    margin: 20px;
+    padding: 30px;
+    top: 780px;
+    font-weight: lighter;
+}
+.button-second{
+    display: inline-block;
+    position:absolute;
+    margin: 50px;
+    padding: 30px;
+    top: 920px;
+    padding: 10px 18px;
+    border-radius: 4px;
+    border: solid 1px #005AFF;
+    background-color: #005AFF;
+    font-family: NokiaPureHeadline,Arial,Helvetica,sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 135%;
+    letter-spacing: 0.54px;
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+
+}
+.img-third{
+    width: 51.3%;
+    position: relative;
+    bottom: 85px;
+
+}
+.second-pic-text{
+    display: flex;
+   
+    
+}
+.h2-img-third{
+    font-size:30px;
+    letter-spacing: 0.36px;
+    float: right;
+    font-weight: lighter;
+    padding: 30px;
+    margin-top: 100px;
+}
+.p202{
+    font-size: 18px;
+    letter-spacing: 0.65px;
+    position: absolute;
+    margin: 20px;
+    padding: 30px;
+    left:630px;
+    top: 1460px;
+    font-weight: lighter;
+}
+.button-img-third{
+    display: inline-block;
+    position:absolute;
+    left: 680px;
+    top: 1650px;
+
+    padding: 10px 18px;
+    border-radius: 4px;
+    border: solid 1px #005AFF;
+    background-color: #005AFF;
+    font-family: NokiaPureHeadline,Arial,Helvetica,sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 135%;
+    letter-spacing: 0.54px;
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+}
+.mixedcolor-div-first{
+    position: relative;
+    background: rgb(164,160,73);
+    background: linear-gradient(180deg, rgb(209, 202, 79) 0%, rgba(89,167,136,1) 100%);
+    
+    width: 99.5%;
+    height: 430px;
+    bottom: 85px;
+    border: 1px solid;
+    
+   
+}
+
+.mixedcolor-div-first > h2{
+    position: relative;
+    color: white;
+    top: 80px;
+    letter-spacing: 0,6px;
+    font-size: 30px;
+    margin: 10px;
+    padding:10px;
+    font-weight: lighter;
+
+}
+.svg-photo-second{
+    position: relative;
+    top: 100px;
+    margin: 10px;
+    left: 10px;
+
+    color: #fff;
+    width: 48px;
+    height: 48px;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    background-color: rgba(255,255,255,0.3);
+    background-repeat: no-repeat;
+    background-position: center center;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+}
+.div-photos{
+    position: relative;
+    bottom: 230px;
+    display: inline-block;
+    text-indent: 10px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+
+}
+.img-about-3{
+    border-radius: 10px;
+    margin-left: 65px;
+}
+.img-about-2{
+    border-radius: 10px;
+    margin-left: 40px;
+}
+.img-about-1{
+    border-radius: 10px;
+}
+.sumof-h2{
+    display: flex;
+    font-weight: lighter;
+}
+.h2-second{
+    padding-left: 110px;
+    font-weight: -600;
+    font-weight: lighter;
+}
+.h2-third{
+    padding-left: 235px;
+    font-weight: -600;
+    font-weight: lighter;
+
+}
+.h2-first{
+    font-weight: lighter;
+
+}
+.h2-first-svg{
+    color: #fff;
+    width: 2%;
+    margin-left: 10px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    font-weight: lighter;
+}
+.h2-second-svg{
+    color: #ba1414;
+    width: 2%;
+    margin-left: 10px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    font-weight: lighter;
+}
+.h2-third-svg{
+    color: #fff;
+    width: 2%;
+    margin-left: 10px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    font-weight: lighter;
+}
+.sumof-p{
+    display: flex;
+    font-weight: lighter;
+}
+.underh2-p-second{
+    position: relative;
+    left: 68px;
+    margin-left: 32px;
+}
+.underh2-p-third{
+    position: relative;
+    left: 77px;
+    margin-left: 70px;
+}
+.inside-photo2{
+    color: whitesmoke;
+    margin: 10px;
+    top: -400px;
+    position:relative;
+    left: 16px;
+}
+.inside-photo2 > div{
+    font-size: 50px;
+    font-weight: 600;
+}
+.inside-photo2> p{
+    font-size: 20px;
+    font-weight: 600;
+}
+.inside-button-2{
+    display: inline-block;
+    padding: 10px 18px;
+    border-radius: 4px;
+    border: solid 1px #005AFF;
+    background-color: #005AFF;
+    font-family: NokiaPureHeadline,Arial,Helvetica,sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 135%;
+    letter-spacing: 0.54px;  
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+
+}
+.container2{
+    position: relative;
+    bottom: 100px;
+    
+}
+.img-div-text{
+    position: absolute;
+    top: 500px;
+
+}
+.img-fifth{
+    width: 111%;
+    border-radius: 10px;
+}
+.img-fifthtext{
+    font-size: 10px;
+    position: relative;
+    top: 1000px;
+}
